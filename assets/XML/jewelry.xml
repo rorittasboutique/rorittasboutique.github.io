@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+ <!--   Last edited by http://www.encodedna.com   -->
+ <menu>
+	<section>
+		<caption>RINGS</caption>
+		<image>assets/images/2.png</image>
+	</section>
+	<section>
+		<caption>NECKLACES</caption>
+		<image>assets/images/JGP_8871 1.jpg</image>
+	</section>
+		<section>
+		<caption>EARRINGS</caption>
+		<image>assets/images/JGP_8871 1.jpg</image>
+	</section>
+		<section>
+		<caption>KAFFS</caption>
+		<image>assets/images/JGP_8871 1.jpg</image>
+	</section>
+		<section>
+		<caption>ALL</caption>
+		<image>assets/images/JGP_8871 1.jpg</image>
+	</section>
+ </menu>
