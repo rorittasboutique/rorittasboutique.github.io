@@ -3,41 +3,41 @@
 	<page>
 		<caption>INSPERATIONS</caption>
 		<image>assets/images/INDEX/INSPERATIONS.png</image>
-		<link>INSPERATIONS.html</link>
+		<link>insperations.html</link>
 	</page>
 	<page>
 		<caption>JEWLERY</caption>
 		<image>assets/images/INDEX/JEWLERY.JPG</image>
-		<link>JEWELRY.html</link>
+		<link>jewelry.html</link>
 	</page>
 	<page>
 		<caption>COLLECTIONS</caption>
 		<image>assets/images/INDEX/COLLECTIONS.jpg</image>
-		<link>COLLECTIONS.html</link>
+		<link>collections.html</link>
 	</page>
 	<page>
 		<caption>LOOKBOOK</caption>
 		<image>assets/images/INDEX/LOOKBOOK.png</image>
-		<link>LOOKBOOK.html</link>
+		<link>lookbook.html</link>
 	</page>
 	<page>
 		<caption>SOCIAL</caption>
 		<image>assets/images/INDEX/SCOIAL.png</image>
-		<link>SOCIAL.html</link>
+		<link>social.html</link>
 	</page>
 	<page>
 		<caption>ABOUT</caption>
 		<image>assets/images/INDEX/about.png</image>
-		<link>ABOUT.html</link>
+		<link>about.html</link>
 	</page>
 	<page>
 		<caption>PRESS</caption>
 		<image>assets/images/INDEX/PRESS2.png</image>
-		<link>PRESS.html</link>
+		<link>press.html</link>
 	</page>
 	<page>
 		<caption>CONTACT</caption>
 		<image>assets/images/INDEX/CONTACT.png</image>
-		<link>CONTACT.html</link>
+		<link>contact.html</link>
 	</page>
  </menu>
