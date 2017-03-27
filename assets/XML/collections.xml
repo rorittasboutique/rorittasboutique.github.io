@@ -2,38 +2,35 @@
  <collections>
 	<collection>
 		<name>ORGANIC</name>
-		<image>assets/images/7.jpg</image>
+		<image>assets/images/COLLECTIONS/ORGANIC.png</image>
+	</collection>
+	<collection>
+		<name>I CAN FLY</name>
+		<image>assets/images/COLLECTIONS/ICANFLY.png</image>
+	</collection>
+	<collection>
+		<name>PHARHOS</name>
+		<image>assets/images/COLLECTIONS/PHAROHS.PNG</image>
+	</collection>
+	<collection>
+		<name>RUNWAY</name>
+		<image>assets/images/COLLECTIONS/runway.png</image>
+	</collection>		 
+	<collection>
+		<name>SUNBULAH</name>
+		<image>assets/images/COLLECTIONS/SUNBULAH.jpg</image>
+	</collection>
+	
+	<collection>
+		<name>DREAM COME DIAMOND</name>
+		<image>assets/images/COLLECTIONS/DREAMCOMEDIAMOND.jpg</image>
+	</collection>
+	<collection>
+		<name>ALOHA</name>
+		<image>assets/images/COLLECTIONS/7.jpg</image>
 	</collection>
 	<collection>
 		<name>GREEN</name>
-		<image>assets/images/7.jpg</image>
-	</collection>
-	<collection>
-		<name>PHAROHS</name>
-		<image>assets/images/7.jpg</image>
-	</collection>
-	<collection>
-		<name>DREAM COME DIAMOND</name>
-		<image>assets/images/7.jpg</image>
-	</collection>
-	
-	<collection>
-		<name>GIVE</name>
-		<image>assets/images/7.jpg</image>
-	</collection>
-	
-	<collection>
-		<name>SUNBULAH</name>
-		<image>assets/images/7.jpg</image>
-	</collection>
-	
-	<collection>
-		<name>SUNBULAH</name>
-		<image>assets/images/7.jpg</image>
-	</collection>
-	
-	<collection>
-		<name>SUNBULAH</name>
-		<image>assets/images/7.jpg</image>
+		<image>assets/images/COLLECTIONS/GREEN.png</image>
 	</collection>
  </collections>

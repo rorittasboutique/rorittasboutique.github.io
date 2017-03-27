@@ -3,22 +3,26 @@
  <menu>
 	<section>
 		<caption>RINGS</caption>
-		<image>assets/images/2.png</image>
+		<image>assets/images/jewelry/rings.png</image>
 	</section>
 	<section>
 		<caption>NECKLACES</caption>
-		<image>assets/images/JGP_8871 1.jpg</image>
+		<image>assets/images/jewelry/NECKLACES.png</image>
 	</section>
 		<section>
 		<caption>EARRINGS</caption>
-		<image>assets/images/JGP_8871 1.jpg</image>
+		<image>assets/images/jewelry/EARRINGS.png</image>
 	</section>
 		<section>
 		<caption>KAFFS</caption>
-		<image>assets/images/JGP_8871 1.jpg</image>
+		<image>assets/images/jewelry/KAFFS.png</image>
 	</section>
-		<section>
+	<section>
+		<caption>Bracelets</caption>
+		<image>assets/images/jewelry/Bracelets.png</image>
+	</section>
+	<section>
 		<caption>ALL</caption>
-		<image>assets/images/JGP_8871 1.jpg</image>
+		<image>assets/images/jewelry/ALL.png</image>
 	</section>
  </menu>

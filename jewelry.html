@@ -16,11 +16,11 @@
 			});
 			function parseXml(xml) {
 			$(xml).find("section").each(function() {
-			$("#rig2").append('<li style="padding:0px">' + 
+			$("#rig2").append('<li style="padding:1px; width:33%;">' + 
 									'<a class="rig-cell" href="#">' +
 										'<img class="rig-img" src="' + $(this).find("image").text() + '">' +
 										'<span class="rig-overlay"></span>'+
-										'<span class="rig-text">' + $(this).find("caption").text() + '</span>' +
+										'<span class="rig-text"></span>' +
 									'</a>' + 
 								'</li>'); 
 			 });
@@ -54,7 +54,7 @@
 				<div>	
 					<section id="PageMain">
 						<center>
-							<ul id="rig2" style="max-width: 800px"></ul>
+							<ul id="rig2" style="max-width: 600px"></ul>
 						</center>
 							
 						<div id="homeFooter">
