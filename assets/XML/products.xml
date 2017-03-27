@@ -1,0 +1,188 @@
+<?xml version="1.0"?>
+ <!--   Last edited by http://www.encodedna.com   -->
+ <products>
+	 
+	<product>
+		<name>Heart Beats</name>
+		<material>18k Gold</material>
+		<priceUS>$690</priceUS>
+		<priceSA>2587 SR</priceSA>
+		<image>assets/images/PRODUCTS/HeartBeats.png</image>
+		<collection>ORGANIC</collection>
+		<type>EARRING</type>
+		<description>The Organic collection inspiration comes from being
+		far from home. I miss a lot of places but the
+		place I miss the most is holy Mecca where the
+		Ka'aba is. In tribute, I created a shape that
+		relates to the black stone silver holder in the
+		corner of the Ka'aba.
+		</description>
+		<insperation>Black Stone Silver holder at ALkaa'bah’s corner</insperation>
+		<id>1</id>
+	</product>
+	
+	<product>
+		<name>I Can Fly</name>
+		<material>18k Gold</material>
+		<priceUS>$790</priceUS>
+		<priceSA>2962 SR</priceSA>
+		<image>assets/images/PRODUCTS/ICANFLY.png</image>
+		<collection>GIVE</collection>
+		<type>RING</type>
+		<description> 
+			
+		</description>
+		<insperation>Brancusi art work</insperation>
+		<id>2</id>
+	</product>
+	
+	<product>
+		<name>Roué</name>
+		<material>18k Gold</material>
+		<priceUS>$690</priceUS>
+		<priceSA>2587 SR</priceSA>
+		<image>assets/images/PRODUCTS/Roué.png</image>
+		<collection>RUNWAY</collection>
+		<type>RING</type>
+		<description> 
+			1950-2016 the design world is still reeling
+			from the shock of Zaha Hadid’s unexpected death this year.
+			Zaha Hadid’s death influenced me to appreciate her work
+			by designing the the Runway collection .
+		</description>
+		<insperation>Zaha Hadid architectural work</insperation>
+		<id>3</id>
+	</product>
+	
+	<product>
+		<name>Tryst</name>
+		<material>18k Gold</material>
+		<priceUS>$690</priceUS>
+		<priceSA>2587 SR</priceSA>
+		<image>assets/images/PRODUCTS/Tryst.png</image>
+		<collection>RUNWAY</collection>
+		<type>RING</type>
+		<description> 
+			1950-2016 the design world is still reeling
+			from the shock of Zaha Hadid’s unexpected death this year.
+			Zaha Hadid’s death influenced me to appreciate her work
+			by designing the the Runway collection .
+		</description>
+		<insperation>Zaha Hadid architectural work</insperation>
+		<id>4</id>
+	</product>
+	
+	<product>
+		<name>Auto</name>
+		<material>18k Gold</material>
+		<priceUS>$390</priceUS>
+		<priceSA>1462 SR</priceSA>
+		<image>assets/images/PRODUCTS/Auto.png</image>
+		<collection>ORGANIC</collection>
+		<type>RING</type>
+		<description> 
+			far from home. I miss a lot of places but the
+			place I miss the most is holy Mecca where the
+			Ka'aba is. In tribute, I created a shape that
+			relates to the black stone silver holder in the
+			corner of the Ka'aba.
+		</description>
+		<insperation>Black Stone Silver holder at ALkaa'bah’s corner</insperation>
+		<id>5</id>
+	</product>
+	
+	<product>
+		<name>Velvet</name>
+		<material>18k Gold</material>
+		<priceUS>$690</priceUS>
+		<priceSA>2587 SR</priceSA>
+		<image>assets/images/PRODUCTS/Velvet.png</image>
+		<collection>RUNWAY</collection>
+		<type>RING</type>
+		<description> 
+			1950-2016 the design world is still reeling
+			from the shock of Zaha Hadid’s unexpected death this year.
+			Zaha Hadid’s death influenced me to appreciate her work
+			by designing the the Runway collection .
+		</description>
+		<insperation>Zaha Hadid architectural work</insperation>
+		<id>6</id>
+	</product>
+	
+	<product>
+		<name>Blaze</name>
+		<material>18k Gold</material>
+		<priceUS>$690</priceUS>
+		<priceSA>2587 SR</priceSA>
+		<image>assets/images/PRODUCTS/Blaze.png</image>
+		<collection>RUNWAY</collection>
+		<type>RING</type>
+		<description> 
+			1950-2016 the design world is still reeling
+			from the shock of Zaha Hadid’s unexpected death this year.
+			Zaha Hadid’s death influenced me to appreciate her work
+			by designing the the Runway collection .
+		</description>
+		<insperation>Zaha Hadid architectural work</insperation>
+		<id>7</id>
+	</product>
+	
+	<product>
+		<name>This is ! it </name>
+		<material>Silver</material>
+		<priceUS>$180</priceUS>
+		<priceSA>675 SR</priceSA>
+		<image>assets/images/PRODUCTS/THISISIT.png</image>
+		<collection>ORGANIC</collection>
+		<type>RING</type>
+		<description> 
+			The Organic collection inspiration comes from being
+			far from home. I miss a lot of places but the
+			place I miss the most is holy Mecca where the
+			Ka'aba is. In tribute, I created a shape that
+			relates to the black stone silver holder in the
+			corner of the Ka'aba.
+		</description>
+		<insperation>Black Stone Silver holder at ALkaa'bah’s corner</insperation>
+		<id>8</id>
+	</product>
+	
+	<product>
+		<name>Long Gem</name>
+		<material>Silver</material>
+		<priceUS>$180</priceUS>
+		<priceSA>675 SR</priceSA>
+		<image>assets/images/PRODUCTS/LONGGEM.png</image>
+		<collection>ORGANIC</collection>
+		<type>RING</type>
+		<description> 
+			The Organic collection inspiration comes from being
+			far from home. I miss a lot of places but the
+			place I miss the most is holy Mecca where the
+			Ka'aba is. In tribute, I created a shape that
+			relates to the black stone silver holder in the
+			corner of the Ka'aba.
+		</description>
+		<insperation>Black Stone Silver holder at ALkaa'bah’s corner</insperation>
+		<id>9</id>
+	</product>
+
+	<product>
+		<name>Futuristic</name>
+		<material>Silver</material>
+		<priceUS>$180</priceUS>
+		<priceSA>675 SR</priceSA>
+		<image>assets/images/PRODUCTS/Futuristic.png</image>
+		<collection>RUNWAY</collection>
+		<type>RING</type>
+		<description> 
+			1950-2016 the design world is still reeling
+			from the shock of Zaha Hadid’s unexpected death this year.
+			Zaha Hadid’s death influenced me to appreciate her work
+			by designing the the Runway collection .
+		</description>
+		<insperation>Zaha Hadid architectural work</insperation>
+		<id>10</id>
+	</product>
+		
+ </products>

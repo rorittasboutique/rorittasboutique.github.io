@@ -7,24 +7,36 @@
 		
 		<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
 		<script>
-			$(document).ready(function() {
-			  $.ajax({
-			    type: "GET",
-			    url: "assets/XML/collections.xml",
-			    dataType: "xml",
-			    success: parseXml
-			});
-			function parseXml(xml) {
-			$(xml).find("collection").each(function() {
-			$("#rig2").append('<li style="padding:1px">' + 
-									'<a class="rig-cell" href="collection.html#' + $(this).find("name").text() + '">' +
-										'<img class="rig-img" src="' + $(this).find("image").text() + '">' +
-										'<span class="rig-overlay"></span>'+
-										'<span class="rig-text">' + $(this).find("name").text() + '</span>' +
-									'</a>' + 
-								'</li>'); 
-			 });
-			}
+			$(document).ready(function() 
+			{
+				$.ajax(
+				{
+				    type: "GET",
+				    url: "assets/XML/products.xml",
+				    dataType: "xml",
+				    success: parseXml
+			    });
+			    
+			    var parmCollection = window.location.hash.substr(1);
+			    
+				function parseXml(xml) {
+					$(xml).find("product").each(function() 
+					{
+						var collection = $(this).children("collection").text();
+						if (collection == parmCollection) 
+						{
+					       $("#rig2").append(
+					       '<li style="padding:1px">' + 
+								'<a class="rig-cell" href="#">' +
+									'<img class="rig-img" src="' + $(this).find("image").text() + '">' +
+									'<span class="rig-overlay"></span>'+
+									'<span class="rig-text">' + $(this).find("name").text() + '</br>' + $(this).find("priceUS").text() + 
+									' - ' + $(this).find("priceSA").text() + '</span>' +
+								'</a>' + 
+							'</li>');
+					    }
+					});
+				}
 			});
 		</script>
 	</head>
@@ -45,7 +57,7 @@
 				
 				<div id="homeFooter">
 					<a style="padding: 0 10px;"  href="jewelry.html"> JEWELRY </a>
-					<a style="padding: 0 10px;"  href="#"> COLLECTIONS </a>
+					<a style="padding: 0 10px;"  href="collections.html"> COLLECTIONS </a>
 					<a style="padding: 0 10px;"  href="about.html"> ABOUT </a>
 					<a style="padding: 0 10px;"  href="lookbook.html"> LOOKBOOK </a>
 					<a style="padding: 0 10px;"  href="press.html"> PRESS </a>
