@@ -2,42 +2,42 @@
  <menu>
 	<page>
 		<caption>INSPERATIONS</caption>
-		<image>assets/images/index/INSPERATIONS.png</image>
+		<image>assets/images/INDEX/INSPERATIONS.png</image>
 		<link>INSPERATIONS.html</link>
 	</page>
 	<page>
 		<caption>JEWLERY</caption>
-		<image>assets/images/index/JEWLERY.jpg</image>
+		<image>assets/images/INDEX/JEWLERY.jpg</image>
 		<link>JEWELRY.html</link>
 	</page>
 	<page>
 		<caption>COLLECTIONS</caption>
-		<image>assets/images/index/COLLECTIONS.jpg</image>
+		<image>assets/images/INDEX/COLLECTIONS.jpg</image>
 		<link>COLLECTIONS.html</link>
 	</page>
 	<page>
 		<caption>LOOKBOOK</caption>
-		<image>assets/images/index/LOOKBOOK.png</image>
+		<image>assets/images/INDEX/LOOKBOOK.png</image>
 		<link>LOOKBOOK.html</link>
 	</page>
 	<page>
 		<caption>SOCIAL</caption>
-		<image>assets/images/index/SCOIAL.png</image>
+		<image>assets/images/INDEX/SCOIAL.png</image>
 		<link>SOCIAL.html</link>
 	</page>
 	<page>
 		<caption>ABOUT</caption>
-		<image>assets/images/index/about.png</image>
+		<image>assets/images/INDEX/about.png</image>
 		<link>ABOUT.html</link>
 	</page>
 	<page>
 		<caption>PRESS</caption>
-		<image>assets/images/index/PRESS2.png</image>
+		<image>assets/images/INDEX/PRESS2.png</image>
 		<link>PRESS.html</link>
 	</page>
 	<page>
 		<caption>CONTACT</caption>
-		<image>assets/images/index/CONTACT.png</image>
+		<image>assets/images/INDEX/CONTACT.png</image>
 		<link>CONTACT.html</link>
 	</page>
  </menu>
