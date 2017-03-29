@@ -28,7 +28,7 @@
 					       $("#rig2").append(
 					       '<li style="padding:1px">' + 
 								'<a class="rig-cell" href="#">' +
-									'<img class="rig-img" src="' + $(this).find("image").text() + '">' +
+									'<img class="rig-img" style="width: 200px; height: 200px;" src="' + $(this).find("image").text() + '">' +
 									'<span class="rig-overlay"></span>'+
 									'<span class="rig-text">' + $(this).find("name").text() + '</br>' + $(this).find("priceUS").text() + 
 									' - ' + $(this).find("priceSA").text() + '</span>' +
@@ -72,11 +72,29 @@
 						<div id="homeFooter">
 							<a style="padding: 0 10px;"  href="contact.html"> CONTACT </a>
 							<a style="padding: 0 10px;"  href="policies.html"> POLICIES </a>
-							<a style="padding: 0 10px;"  href="newsletter.html"> BECOME RORITTA'S FAMILY </a>
+							<a style="padding: 0 10px;"  href="#" class="myLink"> BECOME RORITTA'S FAMILY </a>
+							<form class="newsletter" autocomplete="off" novalidate="">
+								<input type="email" placeholder="Enter your email address" tabindex="1" class="newsletter-email" required>
+								<input type="submit" value="OK" tabindex="2" class="newsletter-submit">
+							</form>
 						</div>
 					</section>
 				</div>
 			</div>
 		</div>
+		
+		<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
+		<script src='assets/js/jquery.add-class-when-email.js'></script>
+		<script>
+		$(function(){
+		   $('.mylink').click(function(){
+		      $('.newsletter .newsletter-email').show(1000);
+		
+		      return false;
+		   });
+		});
+		</script>
+		
 	</body>
+
 </html>
