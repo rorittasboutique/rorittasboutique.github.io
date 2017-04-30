@@ -575,23 +575,20 @@ body:before {
 
 /* RESPONSIVE - 480px and below */ 
 
-@media screen and (max-width: 480px) { 
-  	#Header #Logo { 
-    	white-space: normal; 
+@media screen and (max-width: 480px) {
+	#Header #Logo {
+		white-space: normal; 
     	font-size: 18px;
-      padding-bottom:0!important;
-      
-  	}
+    	padding-bottom:0!important;
+    }
   #Header #Logo {height:70px!important;}
-
-  	#Header #SiteSearch { 
-    	padding-bottom: 5px; 
-  	}
+  #Header #SiteSearch {
+	  padding-bottom: 5px;
+	  }
   #PageMain {margin:0!important;}
-
-    #homeFooter {clear:both; width:300px!important;}
-
-  
+  #homeFooter {
+	  clear:both; width:300px!important;
+	}  
 }
 
 /* FADE-IN **********************************************************************/ 
@@ -703,7 +700,7 @@ body:before {
     }
 }
 
-@media (max-width: 480px) {
+@media screen and (max-width: 480px){
     #rig li {
         width:50%;
     }
