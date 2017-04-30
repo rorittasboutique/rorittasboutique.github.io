@@ -613,8 +613,8 @@ body:before {
 }
 #rig li  {
     display: inline-block;
-    *display:inline;/*for IE6 - IE7*/
-    width:25%;
+    /*display:inline;/*for IE6 - IE7*/
+    /*width:25%;*/
     vertical-align:middle;
     box-sizing:border-box;
     margin:0;
@@ -688,13 +688,13 @@ body:before {
     
 }
 
-@media (max-width: 9000px) {
+@media screen and (max-width: 9000px) {
     #rig li {
         width:25%;
     }
 }
 
-@media (max-width: 700px) {
+@media screen and (max-width: 700px) {
     #rig li {
         width:33.33%;
     }
