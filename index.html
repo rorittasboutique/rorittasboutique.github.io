@@ -16,7 +16,7 @@
 			});
 			function parseXml(xml) {
 			$(xml).find("page").each(function() {
-			$("#rig2").append('<li style="padding:1px">' + 
+			$("#rig").append('<li style="padding:1px">' + 
 									'<a class="rig-cell" href="' + $(this).find("link").text() + '">' +
 										'<img class="rig-img" src="' + $(this).find("image").text() + '">' +
 										'<span class="rig-overlay"></span>'+
@@ -44,23 +44,23 @@
 				</header>
 				
 				<div id="homeFooter">
-					<a style="padding: 0 10px;"  href="jewelry.html"> JEWELRY </a>
-					<a style="padding: 0 10px;"  href="collections.html"> COLLECTIONS </a>
-					<a style="padding: 0 10px;"  href="about.html"> ABOUT </a>
-					<a style="padding: 0 10px;"  href="lookbook.html"> LOOKBOOK </a>
-					<a style="padding: 0 10px;"  href="press.html"> PRESS </a>
-					<a style="padding: 0 10px;"  href="store.html"> STORE </a>
+					<a href="jewelry.html"> JEWELRY </a>
+					<a href="collections.html"> COLLECTIONS </a>
+					<a href="about.html"> ABOUT </a>
+					<a href="lookbook.html"> LOOKBOOK </a>
+					<a href="press.html"> PRESS </a>
+					<a href="store.html"> STORE </a>
 				</div>
 				<div>	
 					<section id="PageMain">
 						<center>
-							<ul id="rig2" style="max-width: 800px"></ul>
+							<ul id="rig" style="max-width: 800px"></ul>
 						</center>
 							
 						<div id="homeFooter">
-							<a style="padding: 0 10px;"  href="contact.html"> CONTACT </a>
-							<a style="padding: 0 10px;"  href="policies.html"> POLICIES </a>
-							<a style="padding: 0 10px;"  href="#" class="myLink"> BECOME RORITTA'S FAMILY </a>
+							<a href="contact.html"> CONTACT </a>
+							<a href="policies.html"> POLICIES </a>
+							<a href="#" class="myLink"> BECOME RORITTA'S FAMILY </a>
 							<form class="newsletter" autocomplete="off" novalidate="">
 								<input type="email" placeholder="Enter your email address" tabindex="1" class="newsletter-email" required>
 								<input type="submit" value="OK" tabindex="2" class="newsletter-submit">

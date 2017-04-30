@@ -565,7 +565,12 @@ body:before {
 
   #PageMain { max-width:727px!important;}
 
-    #homeFooter {clear:both; width:480px!important;}
+    #homeFooter {
+	    clear:both; width:480px!important;
+	    }
+	#homeFooter a {
+		padding: 0 10px;
+		}
 }
 
 /* RESPONSIVE - 480px and below */ 
@@ -592,11 +597,14 @@ body:before {
 /* FADE-IN **********************************************************************/ 
 
 #homeFooter {width:800px; text-align:center; position:relative; margin:40px auto; font-size: 10px; }
+#homeFooter a {
+		padding: 0 10px;
+		}
 
 /* NEW GRID **********************************************************************/ 
 
 
-#rig, #rig2 {
+#rig {
     max-width:1000px;
     margin:0 auto; /*center aligned*/
     padding:0;
@@ -606,7 +614,7 @@ body:before {
     padding-bottom: 20px;
     border-bottom: 2px solid #3c3c3c;
 }
-#rig li, #rig2 li  {
+#rig li  {
     display: inline-block;
     *display:inline;/*for IE6 - IE7*/
     width:25%;
@@ -633,7 +641,7 @@ body:before {
     transition:all 1s;
 }
 
-#rig li:hover .rig-img, #rig2 li:hover .rig-img {
+#rig li:hover .rig-img {
     transform:scale(1.05);
 }
         
@@ -652,7 +660,7 @@ body:before {
     filter:alpha(opacity=0);/*For IE6 - IE8*/
     transition:all 0.6s;
 }
-#rig li:hover .rig-overlay, #rig2 li:hover .rig-overlay {
+#rig li:hover .rig-overlay {
     opacity:0.8;
 }
 
@@ -677,7 +685,7 @@ body:before {
     transform:translateY(-20px);
     transition:all .3s;
 }
-#rig li:hover .rig-text, #rig2 li:hover .rig-text {
+#rig li:hover .rig-text {
     transform:translateY(0px);
     opacity:0.9;
     
@@ -685,10 +693,6 @@ body:before {
 
 @media (max-width: 9000px) {
     #rig li {
-        width:20%;
-    }
-    
-    #rig2 li {
         width:25%;
     }
 }
@@ -697,16 +701,10 @@ body:before {
     #rig li {
         width:33.33%;
     }
-    #rig2 li {
-        width:33.33%;
-    }
 }
 
-@media (max-width: 550px) {
+@media (max-width: 480px) {
     #rig li {
-        width:50%;
-    }
-    #rig2 li {
         width:50%;
     }
 }

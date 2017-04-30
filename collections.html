@@ -16,7 +16,7 @@
 			});
 			function parseXml(xml) {
 			$(xml).find("collection").each(function() {
-			$("#rig2").append('<li style="padding:1px">' + 
+			$("#rig").append('<li style="padding:1px">' + 
 									'<a class="rig-cell" href="collection.html#' + $(this).find("name").text() + '">' +
 										'<img class="rig-img" src="' + $(this).find("image").text() + '">' +
 										'<span class="rig-overlay"></span>'+
@@ -54,7 +54,7 @@
 				<div>	
 					<section id="PageMain">
 						<center>
-							<ul id="rig2" style="max-width: 800px"></ul>
+							<ul id="rig" style="max-width: 800px"></ul>
 						</center>
 							
 						<div id="homeFooter">
